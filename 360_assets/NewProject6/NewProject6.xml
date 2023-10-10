@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/PA101240.jpg?t=1696973032" />
+    <userInterface showProgressPulse="false" showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="#FFFFFF" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#ffffff" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" showProgressBar="true" skin="basic" />
+    <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" dragAcceleration="1" centerZoom="false" maxZoom="100" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" spinOnPageScroll="false" pageScrollFollow="false" pageScrollDelay="300" pageScrollPeriod="3" autoPlayOnDragRelease="false" />
+  </settings>
+  <hotspots />
+  <images rows="1" highresWidth="2000" highresHeight="1500">
+    <image src="images/PA101240.jpg?t=1696973032">
+      <highres src="images/highres/PA101240.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101241.jpg?t=1696973032">
+      <highres src="images/highres/PA101241.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101242.jpg?t=1696973032">
+      <highres src="images/highres/PA101242.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101243.jpg?t=1696973032">
+      <highres src="images/highres/PA101243.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101244.jpg?t=1696973032">
+      <highres src="images/highres/PA101244.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101245.jpg?t=1696973032">
+      <highres src="images/highres/PA101245.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101246.jpg?t=1696973032">
+      <highres src="images/highres/PA101246.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101247.jpg?t=1696973032">
+      <highres src="images/highres/PA101247.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101248.jpg?t=1696973032">
+      <highres src="images/highres/PA101248.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101249.jpg?t=1696973032">
+      <highres src="images/highres/PA101249.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101250.jpg?t=1696973032">
+      <highres src="images/highres/PA101250.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101251.jpg?t=1696973032">
+      <highres src="images/highres/PA101251.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101252.jpg?t=1696973032">
+      <highres src="images/highres/PA101252.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101253.jpg?t=1696973032">
+      <highres src="images/highres/PA101253.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101254.jpg?t=1696973032">
+      <highres src="images/highres/PA101254.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101255.jpg?t=1696973032">
+      <highres src="images/highres/PA101255.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101256.jpg?t=1696973032">
+      <highres src="images/highres/PA101256.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101257.jpg?t=1696973032">
+      <highres src="images/highres/PA101257.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101258.jpg?t=1696973032">
+      <highres src="images/highres/PA101258.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101259.jpg?t=1696973032">
+      <highres src="images/highres/PA101259.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101260.jpg?t=1696973032">
+      <highres src="images/highres/PA101260.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101261.jpg?t=1696973032">
+      <highres src="images/highres/PA101261.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101262.jpg?t=1696973032">
+      <highres src="images/highres/PA101262.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101263.jpg?t=1696973032">
+      <highres src="images/highres/PA101263.jpg?t=1696973032" />
+    </image>
+    <image src="images/PA101264.jpg?t=1696973032">
+      <highres src="images/highres/PA101264.jpg?t=1696973032" />
+    </image>
+  </images>
+</config>
